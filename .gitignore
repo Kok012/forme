@@ -1,0 +1,14 @@
+# Local build files and developer settings
+**/.gradle/
+**/.kotlin/
+**/.idea/
+**/build/
+**/.build-tools/
+**/.jizhang-build-tools/
+**/local.properties
+**/signing.properties
+**/私密签名/
+*.jks
+*.keystore
+.DS_Store
+Thumbs.db

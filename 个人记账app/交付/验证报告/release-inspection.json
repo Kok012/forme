@@ -1,0 +1,77 @@
+{
+  "file": "app-release.apk",
+  "bytes": 1622393,
+  "sha256": "4e3df820d23547a8f738428b395519d04108110671a4fcb809fa0005d5054a32",
+  "native_libraries": [
+    {
+      "name": "lib/arm64-v8a/libandroidx.graphics.path.so",
+      "load_alignments": [
+        16384,
+        16384,
+        16384
+      ],
+      "elf_16k_aligned": true
+    },
+    {
+      "name": "lib/arm64-v8a/libdatastore_shared_counter.so",
+      "load_alignments": [
+        16384,
+        16384,
+        16384
+      ],
+      "elf_16k_aligned": true
+    },
+    {
+      "name": "lib/armeabi-v7a/libandroidx.graphics.path.so",
+      "load_alignments": [
+        16384,
+        16384,
+        16384
+      ],
+      "elf_16k_aligned": true
+    },
+    {
+      "name": "lib/armeabi-v7a/libdatastore_shared_counter.so",
+      "load_alignments": [
+        16384,
+        16384
+      ],
+      "elf_16k_aligned": true
+    },
+    {
+      "name": "lib/x86/libandroidx.graphics.path.so",
+      "load_alignments": [
+        16384,
+        16384,
+        16384
+      ],
+      "elf_16k_aligned": true
+    },
+    {
+      "name": "lib/x86/libdatastore_shared_counter.so",
+      "load_alignments": [
+        16384,
+        16384
+      ],
+      "elf_16k_aligned": true
+    },
+    {
+      "name": "lib/x86_64/libandroidx.graphics.path.so",
+      "load_alignments": [
+        16384,
+        16384,
+        16384
+      ],
+      "elf_16k_aligned": true
+    },
+    {
+      "name": "lib/x86_64/libdatastore_shared_counter.so",
+      "load_alignments": [
+        16384,
+        16384
+      ],
+      "elf_16k_aligned": true
+    }
+  ],
+  "bundled_databases": []
+}
